@@ -15,7 +15,7 @@ public class number_game {
         System.out.println("Guess a number between 1 and 100:");
 
         // The user has exactly 3 attempts to guess the number
-        for (int attempt = 1; attempt <= maxAttempts; attempt++) {
+        for (int attempt = 1 ; attempt <= maxAttempts; attempt++) {
             System.out.print("Attempt " + attempt + ": Enter your guess: ");
             int guess = scanner.nextInt(); // Get the user's guess
 

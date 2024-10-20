@@ -1,6 +1,6 @@
 //Task 2 - Student Grade Calculator
 
-import java.util.Scanner;
+import java.util.*;
 public class grade_calculator {
     public static void main(String[] args){
         System.out.println("ENTER YOUR MARKS BELOW(OUT OF 100)");
