@@ -1,7 +1,7 @@
 //Task 1 - Number Game
 
-import java.util.Random; // For generating random numbers
-import java.util.*; // For getting input from the user
+import java.util.Random; // Generating random numbers
+import java.util.*; // Getting input from the user
 
 public class number_game {
 
